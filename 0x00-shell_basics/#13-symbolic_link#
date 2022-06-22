@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -s test_file.txt __ls__
