@@ -1,1 +1,1 @@
-shell navigation at my fingertips
+Practicing shell navigation and bash
